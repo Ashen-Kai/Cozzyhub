@@ -1,4 +1,4 @@
-# CosyHub - Premium E-Commerce Platform
+# CozzyHub - Premium E-Commerce Platform
 
 A full-featured, production-ready e-commerce platform built with Next.js 14, Supabase, and TypeScript. Your cozy corner for comfort and style, featuring a stunning glassmorphic UI with advanced animations and a complete admin dashboard.
 
